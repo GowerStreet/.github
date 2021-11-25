@@ -1,5 +1,5 @@
 ---
-name: Bug Test
+name: Bug
 about: Something's broken
 title: ''
 labels: bug
