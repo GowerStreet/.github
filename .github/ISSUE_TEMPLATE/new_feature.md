@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Description**
+## Description
 What needs to be done.
 
-**Additional Context**
+## Additional Context
 Why it needs to be done.
 
-**Acceptance Criteria**
+## Acceptance Criteria
 When will it be done.
 
-**Requester**
+## Requester
 Who requested this feature.
